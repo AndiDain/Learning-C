@@ -1,0 +1,2 @@
+-IC:/msys64/mingw64/include
+-IC:/msys64/ucrt64/include
